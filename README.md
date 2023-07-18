@@ -14,7 +14,7 @@ This is the [link](https://jasmineesteban.github.io/Portfolio/) to the Github re
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Vanilla JavaSCript
+**Client:** HTML, CSS, JavaSCript
 
 ## Tools Used
 
