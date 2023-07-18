@@ -2,7 +2,7 @@
 
 A personal website portfolio
 
-![jasmine-esteban](jasmine-esteban.png)
+![jasmine-esteban](images/jasmine-esteban.png)
 
 ## Author
 
